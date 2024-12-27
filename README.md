@@ -13,7 +13,6 @@ This project is a real-world eCommerce backend application developed using Java,
 - Security: JWT-based authentication and role-based authorization for access control.
 - Error Handling: User-friendly error responses and exceptions managed through global handling.
 - Pagination & Sorting: Efficient display of large datasets with pagination and sorting.
-- Cloud Deployment: Deployed on AWS using Spring Cloud.
 
 ## `Technologies Used`
 
@@ -23,7 +22,6 @@ This project is a real-world eCommerce backend application developed using Java,
 - Spring Data JPA (with Hibernate)
 - MySQL (for database)
 - Postman (for API testing)
-- Spring Cloud (for cloud deployment on AWS)
 - Maven (for project build and dependency management
 
 :smile: :rocket: :sparkles:
